@@ -25,7 +25,8 @@ Evaluation:
     accuracy                           0.96       560
    macro avg       0.97      0.95      0.96       560
 weighted avg       0.96      0.96      0.96       560
-
+```
+ ```
 Model 2:
  Classification_Report : 
                precision    recall  f1-score   support
@@ -37,7 +38,8 @@ Model 2:
     accuracy                           0.99       560
    macro avg       0.99      0.99      0.99       560
 weighted avg       0.99      0.99      0.99       560
-
+```
+ ```
 Model 3 :
   Classification_Report : 
                precision    recall  f1-score   support
@@ -49,7 +51,8 @@ Model 3 :
     accuracy                           0.99       560
    macro avg       0.99      0.99      0.99       560
 weighted avg       0.99      0.99      0.99       560
-
+```
+ ```
 Model 4:
   Classification_Report : 
                precision    recall  f1-score   support
