@@ -13,6 +13,7 @@ Method:
     
 Evaluation:
  classification Report :
+ ```
    Model 1:
      Classification_Report : 
                precision    recall  f1-score   support
@@ -24,7 +25,6 @@ Evaluation:
     accuracy                           0.96       560
    macro avg       0.97      0.95      0.96       560
 weighted avg       0.96      0.96      0.96       560
-
 
 Model 2:
  Classification_Report : 
@@ -61,7 +61,7 @@ Model 4:
     accuracy                           0.99       560
    macro avg       0.99      0.99      0.99       560
 weighted avg       0.99      0.99      0.99       560
-
+```
 
 Conclusion :
   I got this performance from my dataset. working with other dataset maybe change so please tune based your requirements.
